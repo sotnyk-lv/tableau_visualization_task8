@@ -3,7 +3,9 @@
 ## folders: 
 ```
 ├───res
-│   └─── res.png
+│   ├─── res.png
+│   ├─── res1.png
+│   └─── res2.png
 ├───bad_visualization
 │   ├─── 1.4_02.xlsx
 │   └─── bad_visualization.png
@@ -23,7 +25,14 @@
 - розуміти змінипорівнюючи два стовбці є дуже складно
 - візуалізація переповнена інформацією, що весь час відволікає
 
-![res/res.png](/res/res.png?raw=true)  
+![res/res.png](/res/res.png?raw=true)   
+Перш за все додамо карту для швидкого пошуку необхідної області.    
+Тепер посортуємо всі категорії по спаданню їхнього внеску.    
 
+![res/res1.png](/res/res1.png?raw=true)  
+Вибравши певну область можна подивитися дані тільки для неї.  
+
+![res/res2.png](/res/res2.png?raw=true)  
+Або порівняти її результат з іншою областю.  
 
 **Посилання на інтерактивну візуалізацію [visualization](https://public.tableau.com/views/Task8_16397753128870/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
